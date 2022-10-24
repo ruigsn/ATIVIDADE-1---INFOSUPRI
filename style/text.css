@@ -1,0 +1,73 @@
+*{
+        margin: 0;
+        padding: 0;
+        box-sizing: border-box;}
+h1 {
+        font-family: "Times New Roman", Times, serif; color: rgb(14, 13, 13);
+        font-size: 24pt; 
+        margin-left: -110px;
+        
+       
+        }
+h2 {
+        color: blue; font-size: 12pt;
+        }
+ h2 {
+        color: white; text-align: center; font-size: 10pt;
+        }
+h3 {
+                color: rgb(0, 0, 0); text-align: left; font-size: 10pt;
+                }
+h4 {
+        color: black;text-align: center; font-family: 'Times New Roman', Times, serif; font-size: 8pt;
+}
+
+.titulo1{
+        position:absolute;
+        margin-top: -10vh;
+}
+p {
+        color: rgb(0, 0, 0);
+        margin-left: -110px;
+        text-align: justify;
+        margin-top: -4px;
+}
+
+.titulo2{
+        position:absolute;
+        margin-top: 8vh;
+}
+#celular{
+        margin-left: 20px;
+        
+}
+
+.botao{
+        margin-top: 150px;
+}
+
+.container-fluid {
+        background-color: #a2b2c3;
+        height: 60px;
+       
+    }
+    .d-flex{
+        width: 400px;
+       
+    }
+    .carousel-inner{
+        background-color: #eeeeef;
+    }
+
+    .footer{
+        position: fixed;
+        left: 0;
+        bottom: 0;
+        width: 100%;
+      }
+#celulares_foto{
+        margin-left: 80px;
+        max-width: 400px;
+        max-height: 400px;
+        
+}       
