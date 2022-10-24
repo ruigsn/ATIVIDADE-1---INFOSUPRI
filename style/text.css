@@ -71,11 +71,19 @@ p {
         max-height: 400px;
         
 }
-    .celulares_pag_venda{
+.celulares_pag_venda{
         max-height: 400px;
         padding-left: 20px;
         padding-top: 20px;
     }
 .h_cel_vendas{
+        margin: 10px 30px 10px 30px;
+}
+.notebooks_pag_venda{
+        max-height: 400px;
+        padding-left: 20px;
+        padding-top: 20px;
+    }
+.h_note_vendas{
         margin: 10px 30px 10px 30px;
 }
